@@ -1,14 +1,14 @@
 {
   "type": "library",
-  "name": "zoujingli/ip2region",
-  "homepage": "https://github.com/zoujingli/Ip2Region",
+  "name": "hisune/ip2region",
+  "homepage": "https://github.com/hisune/Ip2Region",
   "description": "Ip2Region for PHP",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Anyon",
-      "email": "zoujingli@qq.com",
-      "homepage": "http://ctolog.com"
+      "name": "Hisune",
+      "email": "hi@hisune.com",
+      "homepage": "https://hisunecom"
     }
   ],
   "keywords": [
